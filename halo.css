@@ -27,3 +27,20 @@ h2{
     transform: scale(2);
         
 }
+#esettxt{
+    text-align:right;
+    
+}
+#jobb{
+   text-align:right;
+
+}
+
+#eset{  
+    transition: transform .2s; 
+}
+#eset:hover{
+    transform: scale(2);
+}
+
+
