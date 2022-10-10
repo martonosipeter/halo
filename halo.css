@@ -10,9 +10,13 @@ h1{
     float: left;
     text-align: left;
 }
-#fergek{
 
-}
 #kep1{
-    width: 30%;
+    width: 40%;
+}
+p{
+    text-align: justify;
+}
+h2{
+    text-decoration: underline;
 }
