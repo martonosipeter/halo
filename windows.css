@@ -1,0 +1,17 @@
+body{
+    background-image: url("hatter.jpg");
+    color: white;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    text-align: justify;
+}
+h2{
+    text-decoration: underline;
+}
+#windowsdef{
+    border-radius: 20px;
+}
