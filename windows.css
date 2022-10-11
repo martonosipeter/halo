@@ -15,3 +15,10 @@ h2{
 #windowsdef{
     border-radius: 20px;
 }
+#vissza{  
+    transition: transform .2s; 
+}
+#vissza:hover{
+    transform: scale(2);
+        
+}
